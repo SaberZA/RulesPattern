@@ -1,0 +1,5 @@
+C:\Apps\RulesPatternBrownBag\rules-pattern-exercise-files\before\RulesDemos\Core\bin\Debug\Core.dll
+C:\Apps\RulesPatternBrownBag\rules-pattern-exercise-files\before\RulesDemos\Core\bin\Debug\Core.pdb
+C:\Apps\RulesPatternBrownBag\rules-pattern-exercise-files\before\RulesDemos\Core\obj\Debug\Core.dll
+C:\Apps\RulesPatternBrownBag\rules-pattern-exercise-files\before\RulesDemos\Core\obj\Debug\Core.pdb
+C:\Apps\RulesPatternBrownBag\rules-pattern-exercise-files\before\RulesDemos\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache

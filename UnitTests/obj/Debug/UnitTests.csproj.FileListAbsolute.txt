@@ -1,0 +1,9 @@
+C:\Apps\RulesPatternBrownBag\rules-pattern-exercise-files\before\RulesDemos\UnitTests\bin\Debug\UnitTests.dll
+C:\Apps\RulesPatternBrownBag\rules-pattern-exercise-files\before\RulesDemos\UnitTests\bin\Debug\UnitTests.pdb
+C:\Apps\RulesPatternBrownBag\rules-pattern-exercise-files\before\RulesDemos\UnitTests\bin\Debug\Core.dll
+C:\Apps\RulesPatternBrownBag\rules-pattern-exercise-files\before\RulesDemos\UnitTests\bin\Debug\nunit.framework.dll
+C:\Apps\RulesPatternBrownBag\rules-pattern-exercise-files\before\RulesDemos\UnitTests\bin\Debug\Core.pdb
+C:\Apps\RulesPatternBrownBag\rules-pattern-exercise-files\before\RulesDemos\UnitTests\bin\Debug\nunit.framework.xml
+C:\Apps\RulesPatternBrownBag\rules-pattern-exercise-files\before\RulesDemos\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Apps\RulesPatternBrownBag\rules-pattern-exercise-files\before\RulesDemos\UnitTests\obj\Debug\UnitTests.dll
+C:\Apps\RulesPatternBrownBag\rules-pattern-exercise-files\before\RulesDemos\UnitTests\obj\Debug\UnitTests.pdb
